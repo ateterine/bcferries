@@ -203,10 +203,10 @@
           <mxGeometry height="35.29" width="40" x="980" y="860" as="geometry" />
         </mxCell>
         <mxCell id="6lE4ggk0i6s7DHkk4ZOw-104" parent="6lE4ggk0i6s7DHkk4ZOw-85" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Private_Endpoint.svg;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;" value="&lt;b&gt;Private Endpoint&lt;/b&gt;" vertex="1">
-          <mxGeometry height="36.67" width="40" x="1260" y="290" as="geometry" />
+          <mxGeometry height="36.67" width="40" x="1380" y="184.25" as="geometry" />
         </mxCell>
         <mxCell id="6lE4ggk0i6s7DHkk4ZOw-105" parent="6lE4ggk0i6s7DHkk4ZOw-85" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Network_Interfaces.svg;fontStyle=1" value="Network Interface" vertex="1">
-          <mxGeometry height="35.29" width="40" x="1360" y="340.00000000000006" as="geometry" />
+          <mxGeometry height="35.29" width="40" x="1420" y="259.74" as="geometry" />
         </mxCell>
         <mxCell id="6lE4ggk0i6s7DHkk4ZOw-108" parent="6lE4ggk0i6s7DHkk4ZOw-85" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/DNS_Zones.svg;fontStyle=1;fontColor=#000000;" value="Private DNS Zones" vertex="1">
           <mxGeometry height="40" width="40" x="190" y="310" as="geometry" />
